@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-R
-"src/main/java/org/example/App.java,2\6\268b09d2a5cdab7d148f0ec91f7b3fb51601410d
 Y
 )src/main/java/org/example/FileSorter.java,3\0\300affa6cf7652db9d6e34eef9af9d02f26ac405
 V
@@ -20,3 +18,5 @@ S
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+T
+$src/main/java/org/example/Utils.java,8\9\89c9e46230a1f07f6a1359046aeed31188961071
